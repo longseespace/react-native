@@ -63,4 +63,4 @@ A ScrollView with a single item can be used to allow the user to zoom content. S
 
 ## Handling additional gestures
 
-If you want to allow a user to drag a view around the screen, or you want to implement your own custom pan/drag gesture, take a look at the [PanResponder](/docs/panresponder.html) API or the [gesture responder system docs](/docs/gesturerespondersystem.html).
+If you want to allow a user to drag a view around the screen, or you want to implement your own custom pan/drag gesture, take a look at the [PanResponder](/docs/panresponder.html) API or the [gesture responder system docs](/docs/gesture-responder-system.html).
